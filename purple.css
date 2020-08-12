@@ -1,0 +1,19 @@
+body
+{
+	padding: 25;
+	border-style: double;
+	border-color: mediumorchid;
+	text-align: center;
+	font-size: 30;
+	color: mediumorchid;
+	background-color: #FBECFF;
+}
+
+embed
+{
+	border-style: solid;
+	border-color: mediumorchid;
+	border-width: thin;
+	height: 400;
+	width: 225;
+}

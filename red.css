@@ -1,0 +1,19 @@
+body
+{
+	padding: 25;
+	border-style: double;
+	border-color: crimson;
+	text-align: center;
+	font-size: 30;
+	color: crimson;
+	background-color: #FFEFF2;
+}
+
+embed
+{
+	border-style: solid;
+	border-color: crimson;
+	border-width: thin;
+	height: 400;
+	width: 225;
+}

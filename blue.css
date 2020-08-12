@@ -1,0 +1,23 @@
+body
+{
+	padding: 25;
+	border-style: double;
+	border-color: #2F62F4;
+	text-align: center;
+	font-size: 30;
+	color: #2F62F4;
+	background-color: #E8EEFF;
+}
+
+embed
+{
+	border-style: solid;
+	border-color: #2F62F4;
+	border-width: thin;
+	height: 400;
+	width: 225;
+}
+.duet
+{
+	width: 450;
+}

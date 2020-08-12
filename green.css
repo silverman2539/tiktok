@@ -1,0 +1,19 @@
+body
+{
+	padding: 25;
+	border-style: double;
+	border-color: limegreen;
+	text-align: center;
+	font-size: 30;
+	color: limegreen;
+	background-color: #E8FFE8;
+}
+
+embed
+{
+	border-style: solid;
+	border-color: limegreen;
+	border-width: thin;
+	height: 400;
+	width: 225;
+}

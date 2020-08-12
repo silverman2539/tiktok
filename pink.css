@@ -1,0 +1,16 @@
+body
+{
+	padding: 25;
+	border-style: double;
+	border-color: hotpink;
+	text-align: center;
+	font-size: 30;
+	color: hotpink;
+	background-color: #FFE9F4;
+}
+
+div
+{
+	display: inline-block;
+	font-size: 25;
+}

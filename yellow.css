@@ -1,0 +1,19 @@
+body
+{
+	padding: 25;
+	border-style: double;
+	border-color: #F0CB1F;
+	text-align: center;
+	font-size: 30;
+	color: #F0CB1F;
+	background-color: #FFFCEE;
+}
+
+embed
+{
+	border-style: solid;
+	border-color: #F0CB1F;
+	border-width: thin;
+	height: 400;
+	width: 225;
+}

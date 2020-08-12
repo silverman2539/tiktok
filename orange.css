@@ -1,0 +1,19 @@
+body
+{
+	padding: 25;
+	border-style: double;
+	border-color: darkorange;
+	text-align: center;
+	font-size: 30;
+	color: darkorange;
+	background-color: #FFF4EA;
+}
+
+embed
+{
+	border-style: solid;
+	border-color: darkorange;
+	border-width: thin;
+	height: 400;
+	width: 225;
+}
